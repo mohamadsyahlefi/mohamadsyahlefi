@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Full-stack **Website Developer**, **Mobile Developer**, and **DevOps Engineer** with strong focus on scalable systems and clean architecture.
+- 🚀 Full-stack **Website Developer**, **Mobile Developer**, and **DevOps Engineer** enthusiast with strong focus on scalable systems and clean architecture.
 - 🌐 Experienced in building production-grade web applications, REST APIs, and mobile apps.
 - ⚙️ Passionate about automation, CI/CD pipelines, containerization, and cloud infrastructure.
 - 📈 Continuously improving system performance, reliability, and security.
